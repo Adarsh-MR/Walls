@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wallpapers>
+<!--
+	Wallpapers accept:
+		url="<url of wallpaper>"  [REQUIRED]
+		name="<name of wallpaper>"
+		thumbUrl="<url of thumbnail>"
+		author="<wallpaper author>" [REQUIRED]
+-->
+
+	<category name ="citrus">
+	<wallpaper
+		author="customworx"
+		name="Citrus Splash 1"
+		url="https://github.com/Citrus-CAF/packages_apps_OmniStyle/raw/n/res/drawable-nodpi/wall01.png" />
+
+	<wallpaper
+		author="customworx"
+		name="Citrus Splash 2"
+		url="https://github.com/Citrus-CAF/packages_apps_OmniStyle/raw/n/res/drawable-nodpi/wall02.png" />
+
+	<wallpaper
+		author="customworx"
+		name="Citrus Splash 3"
+		url="https://github.com/Citrus-CAF/packages_apps_OmniStyle/raw/n/res/drawable-nodpi/wall03.png" />
+
+	<wallpaper
+		author="customworx"
+		name="Citrus Splash 4"
+		url="https://github.com/Citrus-CAF/packages_apps_OmniStyle/raw/n/res/drawable-nodpi/wall04.png"/>
+
+	</category>
+</wallpapers>
